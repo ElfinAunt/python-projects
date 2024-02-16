@@ -1,0 +1,14 @@
+altgraph==0.17.4
+distlib==0.3.8
+filelock==3.13.1
+gunicorn==21.2.0
+packaging==23.2
+pefile==2023.2.7
+platformdirs==4.1.0
+pygame==2.5.2
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2023.12
+pywin32-ctypes==0.2.2
+scapy==2.5.0
+setuptools==69.0.3
+virtualenv==20.25.0
